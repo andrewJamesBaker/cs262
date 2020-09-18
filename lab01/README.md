@@ -2,7 +2,7 @@
 
 This lab is based on [*hyperlink to lab source*](cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html)
 
-*hacks that i had to make*
+*Hacks that I had to make*
 
 Answers to the lab questions:
 * App.js: Creates and stylizes the user interface, essentially creates what the user sees.
