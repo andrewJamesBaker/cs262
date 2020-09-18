@@ -1,0 +1,7 @@
+Student: Andrew Baker
+Date: 9.4.20
+Possible team ideas for CS 262
+
+Plausible, interesting, and tractable application: A dedicated Calvin Chimes app that both allows for easy reading of chimes articles and a streamlined student news sections to better supplement or replace the regular emails.
+
+Wacky application that would be really cool: Cookbook app that takes in the available ingrediants and outputs valid recipes and suggestions for the leftover food (not challenging) and other recipes that use similar ingrediants that are left over from the first recipe. Possibly calvin dedicated, so student uploaded recipes.

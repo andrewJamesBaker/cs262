@@ -1,0 +1,26 @@
+Student: Andrew Baker
+Date: 9.4.20
+Team info
+1. Demographics
+	a. Class level: Junior
+	b. Major: BCS
+	c. Letter grades: CS112 A or -A; CS212 -A or +B
+
+2. Technical
+	a. I have very minimal experience with JavaScript, writing some very basic code for a toy robot a couple of years back. Definitely not experienced in it.
+		I have no experience with SQL database systems.
+	b. I have used slack before, but in a very informal classroom setting, where it wasn't very important to communicate greatly.
+		I have never used Trell before.
+		I have used Git and GitHub extremely little this summer. I attempted to learn how to use it in my free time this summer and understand many of the basic elements of GitHub, but I have little understanding of the usage or reasoning behind Git. I know just enought to be dangerous.
+	c. I would be interested in building the suggested mail deskie app to better recieve packages, but I am not intense in my interest. I would be very interested in building a more useful calvin community app or chimes app, to further communication between the different groups at calvin, especially given the current state of the Calvin University app.
+3. Personality
+	a.
+	Openness: 83
+	Conscientiousness: 69
+	Extraversion: 48
+	Agreeableness: 67
+	Neuroticism: 50
+	b.
+	I do not feel very strong about who I am paired with. There are obvious perks that come with being paired with current friends, as we know each others strengths and weaknesses, and perks with joining new people, getting to meet and learn about other outside a friend group, a more natural seperation of work and leasure. This being said I dont't feel very strongly about where I am assigned. If it matters with Covid 19 and minimizing contact, I am roommates with Josh Ridder, Hyechan Jun, and Jacob Brink. I do request that I am not placed in a group with Jack Westel. We are good friends, but do not make for great collaborators.
+4. Extra
+	I will generally be happy to work with whoever on whatever team I am assigned. I try to be as flexible as possible.
