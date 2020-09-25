@@ -1,4 +1,4 @@
-**CS 262 - Homework1 1**
+**CS 262 - Homework 1**
 
 This homework exercise is based on NetNinja's 
 [Todo application](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
