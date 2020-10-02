@@ -2,7 +2,7 @@ This homework exercise is based on NetNinja's
 [Todo application](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
 (lessons 24-26)
 
-Written by: Andrew Baker
+Written by: Andrew Baker.
 Date: 10.2.20
 
 Notes
