@@ -67,7 +67,7 @@ SELECT *
 SELECT score
     FROM PlayerGame, Player
 
-    WHERE name = 'The King' and player.ID = playerID  
+    WHERE name = 'The King' AND player.ID = playerID  
 
     ORDER BY score DESC
     ;
