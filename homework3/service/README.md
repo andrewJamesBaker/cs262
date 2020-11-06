@@ -1,13 +1,9 @@
 # CS 262 Monopoly Webservice
 
-Used By: Andrew Baker
-
-Date: 10.30.20
-
 This is the data service application for the [CS 262 sample Monopoly project](https://github.com/calvin-cs262-organization/monopoly-project) 
 and it is deployed here:
           
-<https://fathomless-eyrie-37324.herokuapp.com/>
+<https://cs262-monopoly-service.herokuapp.com/>
 
 It is based on the standard Heroku with Node.js tutorial.
 

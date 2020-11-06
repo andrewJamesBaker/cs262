@@ -34,11 +34,23 @@ router.put("/players/:id", updatePlayer);
 router.post('/players', createPlayer);
 router.delete('/players/:id', deletePlayer);
 
+router.get('/games', readGames);
+
 app.use(router);
 app.use(errorHandler);
 app.listen(port, () => console.log(`Listening on port ${port}`));
 
 // Implement the CRUD operations.
+
+function readGames(req, res, next){
+    db.many ('SELECT PlayerGame.gameID, PlayerGame.score, Player.name FROM PlayerGame INNER JOIN Player ON PlayerGame.playerID = Player.ID')
+    .then(data => {
+        res.send(data);
+    })
+    .catch(err => {
+        next(err);
+    })
+}
 
 function errorHandler(err, req, res) {
     if (app.get('env') === "development") {

@@ -86,3 +86,8 @@ SELECT name
 
 --The query that joined the Player table to itself seems rather contrived. Can you think of a realistic situation in which you’d want to join a table to itself?
     --It could be useful to join a table to itself when a person or element in the table fulfills two roles. Such as a family tree database that has a member who is both a father and a son. 
+
+
+SELECT PlayerGame.gameID, PlayerGame.score, Player.name FROM PlayerGame INNER JOIN Player ON PlayerGame.playerID = Player.ID
+
+SELECT PlayerGame.gameID, PlayerGame.score, Player.name FROM PlayerGame, Player WHERE PlayerGame.playerID = Player.ID
