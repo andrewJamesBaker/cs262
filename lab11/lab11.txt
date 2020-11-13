@@ -1,0 +1,44 @@
+Team H
+
+Buddies page
+	Reformated static data 
+	Removed the style sheet
+	We did not change the require keyword in getting images.
+
+Buddy Details
+	No longer importing flatlist and text input.
+	Reformated static data
+	No change to empty xml body
+	
+Edit profile
+	No longer importing stylesheet, textinput, button.
+	Deleting material icons
+	No change to empty xml body
+
+Habit Track
+	No longer importing flatlist or touchable opacity
+	Removing card and global styles imports
+
+Home 
+	No longer importing flatlist
+	Did not change var
+	Kept text block for spacing
+
+profile
+	No change to empty xml body
+	
+selection block
+	changed duplicate arguments
+		combined style attribute
+
+circleCard
+	removed duplicate elevation
+
+profile card
+	removing unused arguments
+	
+profile linking card
+	removing unused arguments
+
+global styles
+	Not deleting the dark theme
